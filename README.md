@@ -10,9 +10,10 @@ The goals of this repository are:
 
 # Icons and build size
 
-Inside the Laboratory component, you can see some icons.
-The GenericIcon component is importing every components from Antd. 
+Inside the `Laboratory` component, you can see some icons.
+The `GenericIcon` component is importing every components from Antd. 
 When this component is enabled, the build size increase significently (+1MB)
+To see the build size, run the build task and open `stats.html`
 
 # Commits and changelog
 
